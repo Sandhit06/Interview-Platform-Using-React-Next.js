@@ -1,4 +1,4 @@
-<h1 align="center"><b></b>✨ CODENEXUS - Interview Platform ✨<b></b></h1>
+<h1 align="center"><b>✨ CODENEXUS - Interview Platform ✨</b></h1>
 
 ![Demo App](/public/image.png)
 
