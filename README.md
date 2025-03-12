@@ -70,6 +70,13 @@ STREAM_SECRET_KEY=
 ```shell
 npm run dev
 ```
+## Credentials 🔐
+
+### For Using Admin Dashboard use these credentials 
+```shell
+Email: test@gmail.com
+Password: David@954
+```
 
 ## ⚠ Disclaimer
 This tool is developed for educational and developmental purposes. It's crucial to understand the implications and responsibilities of using such technologies in real-world applications.
